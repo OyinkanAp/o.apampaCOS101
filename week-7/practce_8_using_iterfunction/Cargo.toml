@@ -1,0 +1,6 @@
+[package]
+name = "practce_8_using_iterfunction"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]

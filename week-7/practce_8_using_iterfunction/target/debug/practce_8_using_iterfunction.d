@@ -1,0 +1,1 @@
+C:\Users\Owner\OneDrive\Documents\o.apampaCOS101\week-7\practce_8_using_iterfunction\target\debug\practce_8_using_iterfunction.exe: C:\Users\Owner\OneDrive\Documents\o.apampaCOS101\week-7\practce_8_using_iterfunction\src\main.rs
